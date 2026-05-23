@@ -93,6 +93,7 @@ int main() {
     	cout<<"=======================================";
     	
         cout << "\n1. Add Record";
+        cout<<"\ntest";
         cout << "\n2. Show Record";
         cout << "\n3. Show Totals";
         cout << "\n4. Save Summary";
